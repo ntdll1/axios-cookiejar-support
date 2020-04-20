@@ -13,9 +13,6 @@
   },
   "version": "1.0.0",
   "main": "./lib/index",
-  "browser": {
-    "./lib/index": "./noop.js"
-  },
   "files": [
     "index.d.ts",
     "lib",
